@@ -1795,7 +1795,184 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/trading-azioni-800x339.jpg");
+}
+.cid-rtQvj3NMvK {
+  background-image: url("../../../assets/images/journal-860x430.jpg");
+}
+.cid-rtQvj3NMvK .mbr-text,
+.cid-rtQvj3NMvK .mbr-section-btn {
+  text-align: center;
+}
+.cid-rtQv9s5CRd {
+  background-image: url("../../../assets/images/investire-in-borsa-710x444.jpg");
+}
+.cid-rtQzXnmYPY {
+  background-image: url("../../../assets/images/gratis-1920x1080.png");
+}
+.cid-ruqqWsb08L {
+  background-image: url("../../../assets/images/interactive-2000x1017.png");
+}
+.cid-ruqqWsb08L H1 {
+  text-align: center;
+}
+.cid-ruqqWsb08L .mbr-text,
+.cid-ruqqWsb08L .mbr-section-btn {
+  text-align: left;
+}
+.cid-ruqqYhs57z {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/strategy-1000x642.jpg");
+}
+.cid-ruqqYhs57z .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-ruqqYhs57z .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-ruqqYhs57z .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-ruqqYhs57z .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-ruqqYhs57z .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-ruqqYhs57z a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-ruqqYhs57z a.close:hover {
+  color: #ffffff;
+}
+.cid-ruqrcaYAy0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/day-trade-750x463.jpg");
+}
+.cid-ruqrcaYAy0 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-ruqrcaYAy0 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ruqrcaYAy0 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ruqrcaYAy0 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-ruqrfXA8D2 {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-ruqrfXA8D2 .media-content {
+  word-wrap: break-word;
+}
+.cid-ruqrfXA8D2 .form-group {
+  padding: 0.5rem;
+}
+.cid-ruqrfXA8D2 .form-control {
+  text-align: center;
+}
+.cid-ruqrfXA8D2 .mbr-figure {
+  padding-bottom: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-ruqrfXA8D2 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-ruqrfXA8D2 .mbr-text {
+    text-align: center;
+  }
+  .cid-ruqrfXA8D2 .form-inline {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ruqrfXA8D2 .form-control {
+    font-size: .85rem;
+  }
+}
+.cid-ruqBLkmua4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-ruqBLkmua4 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ruqBLkmua4 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-ruqBLkmua4 .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-ruqC7bZsQi {
+  background-image: url("../../../assets/images/etoro-700x300.jpg");
+}
+.cid-ruqC7bZsQi .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-ruqC7bZsQi .media-container-column {
+  background-color: #ff3366;
+}
+@media (max-width: 767px) {
+  .cid-ruqC7bZsQi .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
